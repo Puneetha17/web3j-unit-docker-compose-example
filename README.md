@@ -1,3 +1,7 @@
+# Archive Notice
+
+> This project is no longer under active development and has been archived. The repository is kept for historical purposes and read-only access. No further updates or pull requests will be considered.
+
 # Example to use Web3j-unit to test against docker-compose file
 
 Contains a simple test with required dependencies for you to get started with web3j-unit testing with custom docker-compose file.
